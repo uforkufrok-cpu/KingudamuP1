@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/C5N.png", C5N
+plugin://plugin.video.youtube/play/?video_id=2O-H_p4zYyE
 #EXTINF:-1 tvg-id="ESPN.pe" tvg-name="ESPN" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⭐️ Deporte Argentina",AR | $ŠPN-1
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/327914
 #EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⭐️ Deporte Argentina",AR | [$ŠPN) PREMIUM
@@ -30,7 +32,7 @@ http://superxlatino.com:8880/NJY222/PBSvbRgb5np5/414496
 #EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="http://127.0.0.1/" group-title="⭐️ CINE PREMIUM",Universal
 http://superxlatino.com:8880/NJY222/PBSvbRgb5np5/567912
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://redworld.pro:8880/images/442d1b60a075acc284c83500832fe6be.jpg" group-title="⭐️ Canadá",HGTV - CA
-https://list.iptvcat.net/my_list/s/e75dae10b0510a14d023cf46f46fc024.m3u8
+https://list.iptvcat.net/my_list/s/28b591fed35b3a0e7b418a2623a41271.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el cáliz de fuego (2005)" tvg-logo="http://redworld.pro:8880/images/ceaf52122cc11c69a42f56f38a5eb543.jpg" group-title="⭐️Variadas",Harry Potter y el cáliz de fuego (2005)
 http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560314.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el misterio del príncipe (2009)" tvg-logo="http://redworld.pro:8880/images/4dd373d1c4fc4ce85b4a29e6baae4184.jpg" group-title="⭐️Variadas",Harry Potter y el misterio del príncipe (2009)
