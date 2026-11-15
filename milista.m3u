@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" group-title="Noticias" tvg-logo="https://raw.githubusercontent.com/iptv-org/database/master/resources/logos/C5N.png", C5N
-plugin://plugin.video.youtube/play/?video_id=2O-H_p4zYyE
+#EXTINF:-1 tvg-id="" tvg-name="ARG | C5N SD" tvg-logo="http://redworld.pro:8880/images/df2eed166b86863330578feebd4315a0.png" group-title="⭐️ Argentina",ARG | C5N SD
+http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/490448
 #EXTINF:-1 tvg-id="ESPN.pe" tvg-name="ESPN" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⭐️ Deporte Argentina",AR | $ŠPN-1
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/327914
 #EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⭐️ Deporte Argentina",AR | [$ŠPN) PREMIUM
@@ -78,8 +78,6 @@ http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/490441
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/490442
 #EXTINF:-1 tvg-id="" tvg-name="ARG: A24" tvg-logo="http://redworld.pro:8880/images/b58b7fa78b3287771d8164b37a9ee036.png" group-title="⭐️ Argentina",ARG: A24
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/490446
-#EXTINF:-1 tvg-id="" tvg-name="ARG | C5N SD" tvg-logo="http://redworld.pro:8880/images/df2eed166b86863330578feebd4315a0.png" group-title="⭐️ Argentina",ARG | C5N SD
-http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/490448
 #EXTINF:-1 tvg-id="" tvg-name="ARG | VOLVER SD" tvg-logo="http://redworld.pro:8880/images/beae63ae6ceadf54861fc3a9fe4ea8a1.png" group-title="⭐️ Argentina",ARG | VOLVER SD
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/490449
 #EXTINF:-1 tvg-id="" tvg-name="ARG | TELEFE HD" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ Argentina",ARG | TELEFE HD
