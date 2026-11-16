@@ -18,27 +18,27 @@ https://emitiendoenvivo.com/lpf/5.m3u8
 https://emitiendoenvivo.com/lpf/6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LPF Play" tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/ea8ec918-af8d-42b2-88dd-427c10e69c48.png" group-title="Deportes",LPF Play 7
 https://emitiendoenvivo.com/lpf/7.m3u8
-#EXTINF:-1 tvg-id="ESPN.pe" tvg-name="ESPN" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⭐️ Deporte Argentina",AR | $ŠPN-1
+#EXTINF:-1 tvg-id="ESPN.pe" tvg-name="ESPN" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="Deportes",ESPN 1
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/327914
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⭐️ Deporte Argentina",AR | [$ŠPN) PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="Deportes",ESPN PREMIUM
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/327917
-#EXTINF:60,TNT Sports (Argentina)
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://yt3.googleusercontent.com/UgLvAWxOHY3GGeUgIy-5kzA0Clkfa36eX4lEokaROrSxr8g6Vh9anGiDb3oxb_DD3-p4tnXD=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes",TNT SPORTS
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 tvg-id="" tvg-name="AR | TYC SPORTS" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="⭐️ Deporte Argentina",AR | TYC SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="⭐️ Deporte Argentina",AR | TYC SPORTS
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/327918
-#EXTINF:-1 tvg-id="" tvg-name="AR | FUT SPORTS" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="⭐️ Deporte Argentina",AR | FUT SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="FUT SPORTS" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="⭐️ Deporte Argentina",AR | FUT SPORTS
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/327919
-#EXTINF:-1 tvg-id="" tvg-name="AR | F0X $PORTS 1" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="⭐️ Deporte Argentina",AR | F0X $PORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="F0X $PORTS 1" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="⭐️ Deporte Argentina",AR | F0X $PORTS 1
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/328108
-#EXTINF:-1 tvg-id="" tvg-name="AR | F0X $PORTS 2" tvg-logo="http://redworld.pro:8880/images/4e30238679427cf61979378dc815f0ae.png" group-title="⭐️ Deporte Argentina",AR | F0X $PORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="F0X $PORTS 2" tvg-logo="http://redworld.pro:8880/images/4e30238679427cf61979378dc815f0ae.png" group-title="⭐️ Deporte Argentina",AR | F0X $PORTS 2
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/328109
-#EXTINF:-1 tvg-id="" tvg-name="AR | F0X $PORTS 3" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ Deporte Argentina",AR | F0X $PORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="F0X $PORTS 3" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ Deporte Argentina",AR | F0X $PORTS 3
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/328110
-#EXTINF:-1 tvg-id="" tvg-name="AR | F0X $PORTS PREMIUM" tvg-logo="http://redworld.pro:8880/images/65d1b536a5c2eb33ca65344adeabdfba.png" group-title="⭐️ Deporte Argentina",AR | F0X $PORTS PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="F0X $PORTS PREMIUM" tvg-logo="http://redworld.pro:8880/images/65d1b536a5c2eb33ca65344adeabdfba.png" group-title="⭐️ Deporte Argentina",AR | F0X $PORTS PREMIUM
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/328111
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.mx@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/960px-Discovery_H%26H_Logo_2022.webp.png" group-title="Lifestyle",Discovery Home & Health Latin America South
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.mx@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/960px-Discovery_H%26H_Logo_2022.webp.png" group-title="Familia",Discovery Home & Health
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
-#EXTINF:-1 tvg-id="WarnerChannel.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png" group-title="Movies",Warner Channel South
+#EXTINF:-1 tvg-id="WarnerChannel.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png" group-title="Peliculas y Series Movies",Warner Channel
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE | UNIVERSAL CHANEL  FHD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Universal_Pictures_logo.svg/960px-Universal_Pictures_logo.svg.png" group-title="Familia",UNIVERSAL CHANEL  FHD
 http://superxlatino.com:8880/NJY222/PBSvbRgb5np5/414494
@@ -55,7 +55,7 @@ https://list.iptvcat.net/my_list/s/28b591fed35b3a0e7b418a2623a41271.m3u8
 
 // 24/7
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - Merlina" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/009/898/154/small_2x/24-hours-7-days-black-icon-isolated-on-white-background-free-vector.jpg" group-title="24/7",24/7 - Merlina
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Merlina" tvg-logo="https://media.istockphoto.com/id/1329826230/es/vector/iconos-de-servicio-de-ejecuci%C3%B3n-o-entrega-de-pedidos-las-24-horas.jpg?s=612x612&w=0&k=20&c=AMMvNgsQMyFo4gNQsxGPUk_D77nch5mcnhmh9wVeT2s=" group-title="24/7",24/7 - Merlina
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/526322
 
 // AIRE
