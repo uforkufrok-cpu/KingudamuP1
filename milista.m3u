@@ -1,4 +1,7 @@
 #EXTM3U
+
+// CABLE
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG | C5N SD" tvg-logo="http://redworld.pro:8880/images/df2eed166b86863330578feebd4315a0.png" group-title="⭐️ Argentina",ARG | C5N SD
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/490448
 #EXTINF:-1 tvg-id="" tvg-name="LPF Play" tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/ea8ec918-af8d-42b2-88dd-427c10e69c48.png" group-title="Deportes",LPF Play 1
@@ -47,37 +50,15 @@ http://superxlatino.com:8880/NJY222/PBSvbRgb5np5/414496
 http://superxlatino.com:8880/NJY222/PBSvbRgb5np5/567912
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/HGTV_Logo.svg/960px-HGTV_Logo.svg.png" group-title="Familia",HGTV
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/318631
-
-https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/HGTV_Logo.svg/960px-HGTV_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
-
-#EXTINF:-1 tvg-id="" tvg-name="HGTV2" tvg-logo="http://redworld.pro:8880/images/442d1b60a075acc284c83500832fe6be.jpg" group-title="⭐️ Canadá",HGTV - CA
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://redworld.pro:8880/images/442d1b60a075acc284c83500832fe6be.jpg" group-title="Familia",HGTV
 https://list.iptvcat.net/my_list/s/28b591fed35b3a0e7b418a2623a41271.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - Merlina" tvg-logo="https://i0.wp.com/tomatazos.buscafs.com/2022/09/Merlina-T1-Poster.jpg?fit=864,1080&quality=75&strip=all" group-title="✅ 24/7 VIP",24/7 - Merlina
+// 24/7
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Merlina" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/009/898/154/small_2x/24-hours-7-days-black-icon-isolated-on-white-background-free-vector.jpg" group-title="24/7",24/7 - Merlina
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/526322
 
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el cáliz de fuego (2005)" tvg-logo="http://redworld.pro:8880/images/ceaf52122cc11c69a42f56f38a5eb543.jpg" group-title="⭐️Variadas",Harry Potter y el cáliz de fuego (2005)
-http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560314.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el misterio del príncipe (2009)" tvg-logo="http://redworld.pro:8880/images/4dd373d1c4fc4ce85b4a29e6baae4184.jpg" group-title="⭐️Variadas",Harry Potter y el misterio del príncipe (2009)
-http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560315.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el prisionero de Azkaban (2004)" tvg-logo="http://redworld.pro:8880/images/fe16bfff107b40eebd724cdcbed5fbf1.jpg" group-title="⭐️Variadas",Harry Potter y el prisionero de Azkaban (2004)
-http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560316.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la cámara secreta (2002)" tvg-logo="http://redworld.pro:8880/images/4165c9b10ff8408b1b6fe64f270867a1.jpg" group-title="⭐️Variadas",Harry Potter y la cámara secreta (2002)
-http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560317.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la orden del Fénix (2007)" tvg-logo="http://redworld.pro:8880/images/0e045cb4b07a7d3180bed6dde466f471.jpg" group-title="⭐️Variadas",Harry Potter y la orden del Fénix (2007)
-http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560318.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la piedra filosofal (2001)" tvg-logo="http://redworld.pro:8880/images/a81326375d34667287302ee18c0800c9.jpg" group-title="⭐️Variadas",Harry Potter y la piedra filosofal (2001)
-http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560319.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las reliquias de la muerte (1ª parte) (2010)" tvg-logo="http://redworld.pro:8880/images/b46539fde7bb2ede99399d858af99239.jpg" group-title="⭐️Variadas",Harry Potter y las reliquias de la muerte (1ª parte) (2010)
-http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560320.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las reliquias de la muerte: Parte 2 (2011)" tvg-logo="http://redworld.pro:8880/images/2afb8aa16e51ba182d493b5f478aeea4.jpg" group-title="⭐️Variadas",Harry Potter y las reliquias de la muerte: Parte 2 (2011)
-http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560321.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hombres de negro (1997)" tvg-logo="http://redworld.pro:8880/images/092865b899a735f27cbbad017cde97c0.jpg" group-title="⭐️Variadas",Hombres de negro (1997)
-http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560322.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hombres de Negro 2 (2002)" tvg-logo="http://redworld.pro:8880/images/0f7fa8737526131c7cae8195907afe58.jpg" group-title="⭐️Variadas",Hombres de Negro 2 (2002)
-http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560323.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hombres de Negro 3 (2012)" tvg-logo="http://redworld.pro:8880/images/b8c697e93b0031132da35a465f04bbe1.jpg" group-title="⭐️Variadas",Hombres de Negro 3 (2012)
-http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560324.mkv
+// AIRE
 
 #EXTINF:-1 tvg-id="" tvg-name="ARG | El Nueve  HD" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ Argentina",ARG | El Nueve  HD
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/490460
@@ -109,3 +90,217 @@ http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/490452
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/490455
 #EXTINF:-1 tvg-id="" tvg-name="ARG | TV Publica" tvg-logo="http://redworld.pro:8880/images/e18523361e24e6508919b799b7e0a144.png" group-title="⭐️ Argentina",ARG | TV Publica
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/490456
+
+
+// PELIS
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el cáliz de fuego (2005)" tvg-logo="http://redworld.pro:8880/images/ceaf52122cc11c69a42f56f38a5eb543.jpg" group-title="⭐️Variadas",Harry Potter y el cáliz de fuego (2005)
+http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el misterio del príncipe (2009)" tvg-logo="http://redworld.pro:8880/images/4dd373d1c4fc4ce85b4a29e6baae4184.jpg" group-title="⭐️Variadas",Harry Potter y el misterio del príncipe (2009)
+http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el prisionero de Azkaban (2004)" tvg-logo="http://redworld.pro:8880/images/fe16bfff107b40eebd724cdcbed5fbf1.jpg" group-title="⭐️Variadas",Harry Potter y el prisionero de Azkaban (2004)
+http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la cámara secreta (2002)" tvg-logo="http://redworld.pro:8880/images/4165c9b10ff8408b1b6fe64f270867a1.jpg" group-title="⭐️Variadas",Harry Potter y la cámara secreta (2002)
+http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la orden del Fénix (2007)" tvg-logo="http://redworld.pro:8880/images/0e045cb4b07a7d3180bed6dde466f471.jpg" group-title="⭐️Variadas",Harry Potter y la orden del Fénix (2007)
+http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la piedra filosofal (2001)" tvg-logo="http://redworld.pro:8880/images/a81326375d34667287302ee18c0800c9.jpg" group-title="⭐️Variadas",Harry Potter y la piedra filosofal (2001)
+http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las reliquias de la muerte (1ª parte) (2010)" tvg-logo="http://redworld.pro:8880/images/b46539fde7bb2ede99399d858af99239.jpg" group-title="⭐️Variadas",Harry Potter y las reliquias de la muerte (1ª parte) (2010)
+http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las reliquias de la muerte: Parte 2 (2011)" tvg-logo="http://redworld.pro:8880/images/2afb8aa16e51ba182d493b5f478aeea4.jpg" group-title="⭐️Variadas",Harry Potter y las reliquias de la muerte: Parte 2 (2011)
+http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hombres de negro (1997)" tvg-logo="http://redworld.pro:8880/images/092865b899a735f27cbbad017cde97c0.jpg" group-title="⭐️Variadas",Hombres de negro (1997)
+http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hombres de Negro 2 (2002)" tvg-logo="http://redworld.pro:8880/images/0f7fa8737526131c7cae8195907afe58.jpg" group-title="⭐️Variadas",Hombres de Negro 2 (2002)
+http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hombres de Negro 3 (2012)" tvg-logo="http://redworld.pro:8880/images/b8c697e93b0031132da35a465f04bbe1.jpg" group-title="⭐️Variadas",Hombres de Negro 3 (2012)
+http://superxlatino.com:8880/movie/Ceci1234/QV2ap6u7wLma/560324.mkv
+
+
+// SERIES
+
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S01 E01" tvg-logo="http://redworld.pro:8880/images/2c333dbad6f764d7c5c5e5c980816b98.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S01 E01
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S01 E02" tvg-logo="http://redworld.pro:8880/images/94c16ef9a25b67da27b8fad686965e9b.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S01 E02
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S01 E03" tvg-logo="http://redworld.pro:8880/images/46eec4a4ddbdde351420bb10ac6dc1f8.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S01 E03
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S01 E04" tvg-logo="http://redworld.pro:8880/images/da8ee5c4ad2d556ad774ed887bcbd60b.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S01 E04
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S01 E05" tvg-logo="http://redworld.pro:8880/images/6cd7b351c635225f008d6d04f0fc0278.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S01 E05
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S01 E06" tvg-logo="http://redworld.pro:8880/images/351d7396ae555bb97dcaabdb5b764de5.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S01 E06
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S01 E07" tvg-logo="http://redworld.pro:8880/images/9ed01171293d45c003ee4f1dc3af0333.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S01 E07
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S01 E08" tvg-logo="http://redworld.pro:8880/images/a38ec75e2592344273b17355e46f6a0c.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S01 E08
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S01 E09" tvg-logo="http://redworld.pro:8880/images/caffa8f866ccede2a114c92a0f44d241.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S01 E09
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S01 E10" tvg-logo="http://redworld.pro:8880/images/2851c91f47a0e5a480529e784dae9450.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S01 E10
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S01 E11" tvg-logo="http://redworld.pro:8880/images/46aa7dc2e5798719cc025e386f14c668.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S01 E11
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S02 E01" tvg-logo="http://redworld.pro:8880/images/3a694644dc3bff841856d4d822193889.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S02 E01
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S02 E02" tvg-logo="http://redworld.pro:8880/images/f7762ffebb442407764fb920bf6e0080.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S02 E02
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S02 E03" tvg-logo="http://redworld.pro:8880/images/417abb0256a5ff568239cd2383d77e82.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S02 E03
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S02 E04" tvg-logo="http://redworld.pro:8880/images/2f298df9a282afb3f00956437c7236bc.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S02 E04
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S02 E05" tvg-logo="http://redworld.pro:8880/images/4565b07c4ba19c57888ff3c51bd291c0.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S02 E05
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S02 E06" tvg-logo="http://redworld.pro:8880/images/bde86a8150a6362a947d467e16073ac3.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S02 E06
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S02 E07" tvg-logo="http://redworld.pro:8880/images/ca6b684c1a9f7e6574161c522093f8fd.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S02 E07
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S02 E08" tvg-logo="http://redworld.pro:8880/images/eda96ffa038f79d935442699bb38a70a.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S02 E08
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S02 E09" tvg-logo="http://redworld.pro:8880/images/31a1303d185c2e54e6ffbdd4fcb27c5c.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S02 E09
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S02 E10" tvg-logo="http://redworld.pro:8880/images/172e0227bc76178516f2516e27ca1885.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S02 E10
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S03 E01" tvg-logo="http://redworld.pro:8880/images/5dac2e82e8c8e4a460647417289fb373.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S03 E01
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S03 E02" tvg-logo="http://redworld.pro:8880/images/a79c4fb31c05b280e348d83220d3830c.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S03 E02
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S03 E03" tvg-logo="http://redworld.pro:8880/images/73f527e6e24b8e07bc878693111c63f8.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S03 E03
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S03 E04" tvg-logo="http://redworld.pro:8880/images/ba0c9901db773004e76223b5322b3097.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S03 E04
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S03 E05" tvg-logo="http://redworld.pro:8880/images/ff81883183f4d7447c322e2436c94cce.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S03 E05
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S03 E06" tvg-logo="http://redworld.pro:8880/images/0fd5867ccad0dd3c3512a8136239f6a2.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S03 E06
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S03 E07" tvg-logo="http://redworld.pro:8880/images/168d3574ca2bda5b82b9f641925c771c.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S03 E07
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S03 E08" tvg-logo="http://redworld.pro:8880/images/7a1133975f945c6433599c8715a16635.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S03 E08
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S03 E09" tvg-logo="http://redworld.pro:8880/images/90771f4f9ef86dbac59a9f8dc66840cf.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S03 E09
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S03 E10" tvg-logo="http://redworld.pro:8880/images/5e579ab4bd780aa3c9564824086804e7.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S03 E10
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S04 E01" tvg-logo="http://redworld.pro:8880/images/3d530e306b8c06be40b9a9cce9f21057.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S04 E01
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S04 E02" tvg-logo="http://redworld.pro:8880/images/a8254d9804172fba5a417942f375e027.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S04 E02
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S04 E03" tvg-logo="http://redworld.pro:8880/images/f7eec1faa177302127f26b35d017e758.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S04 E03
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S04 E04" tvg-logo="http://redworld.pro:8880/images/8e11ba4bc8ab8b545699ea1b7578ddcd.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S04 E04
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S04 E05" tvg-logo="http://redworld.pro:8880/images/36d5d6432ef939fff293f22771008972.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S04 E05
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S04 E06" tvg-logo="http://redworld.pro:8880/images/3e4f56d070993fd0d8776b3604c0f00a.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S04 E06
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S04 E07" tvg-logo="http://redworld.pro:8880/images/e3b45a1e9b8f0bebd36d280dc49fe9c1.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S04 E07
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S04 E08" tvg-logo="http://redworld.pro:8880/images/9a1e6585a48905e86d0369125c17b37d.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S04 E08
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S04 E09" tvg-logo="http://redworld.pro:8880/images/2be79030d6903156e1cffee6c1c110f2.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S04 E09
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S04 E10" tvg-logo="http://redworld.pro:8880/images/fcd641c56165df08cada02224cd709fc.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S04 E10
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470271.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S05 E01" tvg-logo="http://redworld.pro:8880/images/9820b96e5bb0b2cffc32d05faec55018.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S05 E01
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S05 E02" tvg-logo="http://redworld.pro:8880/images/08b4dfc290407886f3b7017e9988c627.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S05 E02
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S05 E03" tvg-logo="http://redworld.pro:8880/images/8a4b2ad3169c6bcac0cc91362fa759ea.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S05 E03
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S05 E04" tvg-logo="http://redworld.pro:8880/images/bf601c239f85c1d1bb22094213c03a97.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S05 E04
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S05 E05" tvg-logo="http://redworld.pro:8880/images/7594e22a711374635532202bc312eb50.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S05 E05
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S05 E06" tvg-logo="http://redworld.pro:8880/images/f6310d0c6fcc66bb3c296c3a95c10865.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S05 E06
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S05 E07" tvg-logo="http://redworld.pro:8880/images/28b52a2ca7556529bde8d9bcae63f969.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S05 E07
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S05 E08" tvg-logo="http://redworld.pro:8880/images/cb3d69a00ad3b2133d1b0003053a2848.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S05 E08
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S05 E09" tvg-logo="http://redworld.pro:8880/images/0de0c95c2a3e14fce9bad5e445778622.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S05 E09
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S05 E10" tvg-logo="http://redworld.pro:8880/images/b0184673433de51ed06a6f54352534a3.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S05 E10
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S06 E01" tvg-logo="http://redworld.pro:8880/images/acdba32c6f4971a7a7202b93831aa9a3.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S06 E01
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470287.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S06 E02" tvg-logo="http://redworld.pro:8880/images/0dce01ff3c085e2d0c18b5a0419b7c81.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S06 E02
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S06 E03" tvg-logo="http://redworld.pro:8880/images/144f961c219498e3ae5ade606d2fe4a0.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S06 E03
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S06 E04" tvg-logo="http://redworld.pro:8880/images/c5dcb4df05554c886dbd578118fbc160.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S06 E04
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S06 E05" tvg-logo="http://redworld.pro:8880/images/d60c2424bb96cf327b336f9e2bfc9168.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S06 E05
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S06 E06" tvg-logo="http://redworld.pro:8880/images/81d5b34e1ce1259b233fc8b0efc55017.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S06 E06
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S06 E07" tvg-logo="http://redworld.pro:8880/images/3034ed7a15f66a5fd298487bb89f385d.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S06 E07
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S06 E08" tvg-logo="http://redworld.pro:8880/images/dadacf9b90bf5f2448ebe7fbeadb7d4d.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S06 E08
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S06 E09" tvg-logo="http://redworld.pro:8880/images/d618e496f302945d522e1e057ca859de.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S06 E09
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S06 E10" tvg-logo="http://redworld.pro:8880/images/9f1183376eb7bedc1e24d7108fde692c.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S06 E10
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S07 E01" tvg-logo="http://redworld.pro:8880/images/fcb65ef56fd9cf15dd31961a853ad45f.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S07 E01
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S07 E02" tvg-logo="http://redworld.pro:8880/images/b9792db0c8b217d7b0628189f685bfa9.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S07 E02
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S07 E03" tvg-logo="http://redworld.pro:8880/images/5d7d7f7ae48dd202df838522db87bc17.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S07 E03
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S07 E04" tvg-logo="http://redworld.pro:8880/images/0535ebe0626f0dc76811a0bd7522a485.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S07 E04
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S07 E05" tvg-logo="http://redworld.pro:8880/images/f689d0734ff4f115ccf554fdc56328be.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S07 E05
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S07 E06" tvg-logo="http://redworld.pro:8880/images/7ed73a75c11866689b2a70df53abce25.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S07 E06
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S07 E07" tvg-logo="http://redworld.pro:8880/images/a4bc3f5b49153c58f4aeb4871486e723.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S07 E07
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S07 E08" tvg-logo="http://redworld.pro:8880/images/9f8f59699a7767248456b78d4e07b4a1.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S07 E08
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S07 E09" tvg-logo="http://redworld.pro:8880/images/f31a74b54f55b328627ed8d16c077c73.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S07 E09
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S07 E10" tvg-logo="http://redworld.pro:8880/images/e9d6c14d5c9ce3ab37f4d2ec71e18f9b.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S07 E10
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S08 E01" tvg-logo="http://redworld.pro:8880/images/e26af9706e8ab83a54c1daaf85ebf117.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S08 E01
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S08 E02" tvg-logo="http://redworld.pro:8880/images/03abbdda006f2e9332d762929155106a.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S08 E02
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S08 E03" tvg-logo="http://redworld.pro:8880/images/843b770f0ad5c3affb146f228a22c5bc.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S08 E03
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S08 E04" tvg-logo="http://redworld.pro:8880/images/52f6de9898769d4d3601961f484c44c6.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S08 E04
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S08 E05" tvg-logo="http://redworld.pro:8880/images/3177a4866863898bbd546659bd13b9f5.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S08 E05
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S08 E06" tvg-logo="http://redworld.pro:8880/images/965c210377551fccc7ee837b4089f627.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S08 E06
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S08 E07" tvg-logo="http://redworld.pro:8880/images/825fa33ab583a633ddbc4face511a16d.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S08 E07
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S08 E08" tvg-logo="http://redworld.pro:8880/images/b40412995383a957d57864a50946331e.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S08 E08
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S08 E09" tvg-logo="http://redworld.pro:8880/images/ea5017309101a76e975c2af71c4ce1fa.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S08 E09
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S08 E10" tvg-logo="http://redworld.pro:8880/images/624712ef78b29ac3ae9ffe6441f9a44f.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S08 E10
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/470316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S09 E01" tvg-logo="http://redworld.pro:8880/images/5dba7bd7cdf508b2017f55c0bdc04eb6.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S09 E01
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/527940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S09 E02" tvg-logo="http://redworld.pro:8880/images/b815e3110fe8709b918297a1eb757169.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S09 E02
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/532161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S09 E03" tvg-logo="http://redworld.pro:8880/images/25fc1018ce6e4472ed15b1ec71c9a27b.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S09 E03
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/532667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S09 E04" tvg-logo="http://redworld.pro:8880/images/48e52c263ebfdf90754728ce39a625e7.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S09 E04
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/533116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S09 E05" tvg-logo="http://redworld.pro:8880/images/a3fd0ab52bb12645f073c5be5dd0f415.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S09 E05
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/533389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S09 E06" tvg-logo="http://redworld.pro:8880/images/8838253e44edb6525fc6dfd11502a59b.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S09 E06
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/535002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S09 E07" tvg-logo="http://redworld.pro:8880/images/f55eaff1f4d696c83ddd1db47998afe0.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S09 E07
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/535168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S09 E08" tvg-logo="http://redworld.pro:8880/images/57da887706b6fd6e75ad88ec2ddffb6a.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S09 E08
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/545241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S09 E09" tvg-logo="http://redworld.pro:8880/images/639fc1b2117da19c86bab1cc5a421cbb.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S09 E09
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/547226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rick y Morty S09 E10" tvg-logo="http://redworld.pro:8880/images/4d28639b302bc94da42966857da00512.jpg" group-title="⭐️ Series Infantiles",Rick y Morty S09 E10
+http://superxlatino.com:8880/series/Ceci1234/QV2ap6u7wLma/547919.mp4
+
+// SERIES
