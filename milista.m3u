@@ -2,8 +2,8 @@
 
 // CABLE
 
-#EXTINF:-1 tvg-id="" tvg-name="ARG | C5N SD" tvg-logo="http://redworld.pro:8880/images/df2eed166b86863330578feebd4315a0.png" group-title="⭐️ Argentina",ARG | C5N SD
-http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/490448
+#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="http://redworld.pro:8880/images/df2eed166b86863330578feebd4315a0.png" group-title="Aire",C5N SD
+http://138.59.227.20:8000/play/a05v/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LPF Play" tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/ea8ec918-af8d-42b2-88dd-427c10e69c48.png" group-title="Deportes",LPF Play 1
 https://emitiendoenvivo.com/lpf/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LPF Play" tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/ea8ec918-af8d-42b2-88dd-427c10e69c48.png" group-title="Deportes",LPF Play 2
@@ -18,8 +18,10 @@ https://emitiendoenvivo.com/lpf/5.m3u8
 https://emitiendoenvivo.com/lpf/6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LPF Play" tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/ea8ec918-af8d-42b2-88dd-427c10e69c48.png" group-title="Deportes",LPF Play 7
 https://emitiendoenvivo.com/lpf/7.m3u8
-#EXTINF:-1 tvg-id="ESPN.pe" tvg-name="ESPN" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="Deportes",ESPN 1
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="Deportes",ESPN 1
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/327914
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="Deportes",ESPN 3
+http://138.59.227.20:8000/play/a09a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="Deportes",ESPN PREMIUM
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/327917
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://yt3.googleusercontent.com/UgLvAWxOHY3GGeUgIy-5kzA0Clkfa36eX4lEokaROrSxr8g6Vh9anGiDb3oxb_DD3-p4tnXD=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes",TNT SPORTS
