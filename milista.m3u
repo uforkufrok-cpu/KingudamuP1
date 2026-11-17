@@ -17,8 +17,10 @@ https://emitiendoenvivo.com/lpf/5.m3u8
 https://emitiendoenvivo.com/lpf/6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LPF Play" tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/ea8ec918-af8d-42b2-88dd-427c10e69c48.png" group-title="Deportes",LPF Play 7
 https://emitiendoenvivo.com/lpf/7.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="Deportes",ESPN 1
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="Deportes",ESPN HD
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/327914
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="Deportes",ESPN 1
+http://138.59.227.20:8000/play/a099/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="Deportes",ESPN G
 https://list.iptvcat.net/my_list/s/b09cb4c900967ecfe77148e2208cef2c.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="Deportes",ESPN 2
