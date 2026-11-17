@@ -2,9 +2,9 @@
 
 // CABLE
 
-#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="http://redworld.pro:8880/images/df2eed166b86863330578feebd4315a0.png" group-title="Aire",C5N1 HD
+#EXTINF:-1 tvg-id="" tvg-name="C5NHD" tvg-logo="http://redworld.pro:8880/images/df2eed166b86863330578feebd4315a0.png" group-title="Aire",C5N1 HD
 plugin://plugin.video.youtube/play/?video_id=2O-H_p4zYyE
-#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="http://redworld.pro:8880/images/df2eed166b86863330578feebd4315a0.png" group-title="Aire",C5N2 SD
+#EXTINF:-1 tvg-id="" tvg-name="C5NSD" tvg-logo="http://redworld.pro:8880/images/df2eed166b86863330578feebd4315a0.png" group-title="Aire",C5N2 SD
 http://138.59.227.20:8000/play/a05v/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LPF Play" tvg-logo="https://lpf.vod.immergo.tv/lpf-immergo/uploaded/ea8ec918-af8d-42b2-88dd-427c10e69c48.png" group-title="Deportes",LPF Play 1
 https://emitiendoenvivo.com/lpf/1.m3u8
