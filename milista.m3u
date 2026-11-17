@@ -2,7 +2,7 @@
 
 // CABLE
 
-#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="http://redworld.pro:8880/images/df2eed166b86863330578feebd4315a0.png" group-title="Aire",C5N SD
+#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="http://redworld.pro:8880/images/df2eed166b86863330578feebd4315a0.png" group-title="Aire",C5N HD
 plugin://plugin.video.youtube/play/?video_id=2O-H_p4zYyE
 #EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="http://redworld.pro:8880/images/df2eed166b86863330578feebd4315a0.png" group-title="Aire",C5N SD
 http://138.59.227.20:8000/play/a05v/index.m3u8
