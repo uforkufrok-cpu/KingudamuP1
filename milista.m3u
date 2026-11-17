@@ -22,6 +22,8 @@ https://emitiendoenvivo.com/lpf/6.m3u8
 https://emitiendoenvivo.com/lpf/7.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="Deportes",ESPN 1
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/327914
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="Deportes",ESPN G
+https://list.iptvcat.net/my_list/s/b09cb4c900967ecfe77148e2208cef2c.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="Deportes",ESPN 2
 http://181.232.188.21:8282/play/a05b/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="Deportes",ESPN 3
