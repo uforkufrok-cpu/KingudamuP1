@@ -101,7 +101,9 @@ http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/490442
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/490446
 #EXTINF:-1 tvg-id="" tvg-name="ARG | VOLVER SD" tvg-logo="http://redworld.pro:8880/images/beae63ae6ceadf54861fc3a9fe4ea8a1.png" group-title="⭐️ Argentina",ARG | VOLVER SD
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/490449
-#EXTINF:-1 tvg-id="" tvg-name="ARG | TELEFE HD" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ Argentina",ARG | TELEFE HD
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Televisi%C3%B3n_Federal_Logo.svg/1920px-Televisi%C3%B3n_Federal_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Aire",TELEFE
+http://45.173.231.22:8000/play/a053/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mEKma5VgvX7ACeppL_vH0a9QwcaYGgLJDH_RB8dfXO-QM=s900-c-k-c0x00ffffff-no-rj" group-title="Aire",TELEFE (Delay)
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/490451
 #EXTINF:-1 tvg-id="" tvg-name="CRONICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWWMmcZCQ5tr1Wv90_JiMagFY_0XjSp1Un3g596k6BiQ&s" group-title="⭐️ Argentina",CRONICA
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/490452
