@@ -28,6 +28,8 @@ http://181.232.188.21:8282/play/a05b/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="Deportes",ESPN 3
 http://138.59.227.20:8000/play/a09a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="Deportes",ESPN PREMIUM
+http://158.172.155.130:8000/play/a0ao/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="Deportes",ESPN PREMIUM Delay
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/327917
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://yt3.googleusercontent.com/UgLvAWxOHY3GGeUgIy-5kzA0Clkfa36eX4lEokaROrSxr8g6Vh9anGiDb3oxb_DD3-p4tnXD=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes",TNT SPORTS
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8?checkedby:iptvcat.net
