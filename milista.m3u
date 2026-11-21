@@ -33,9 +33,9 @@ http://158.172.155.130:8000/play/a0ao/index.m3u8
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/327917
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://yt3.googleusercontent.com/UgLvAWxOHY3GGeUgIy-5kzA0Clkfa36eX4lEokaROrSxr8g6Vh9anGiDb3oxb_DD3-p4tnXD=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes",TNT SPORTS
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 tvg-id="TYCSPORTS" tvg-name="TYC SPORTS" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="Deportes",TYC SPORTS
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="TYC SPORTS" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="Deportes",TYC SPORTS
 https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
-#EXTINF:-1 tvg-id="TYCSPORTS" tvg-name="TYC SPORTS Delay" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="Deportes",TYC SPORTS (Delay)
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="TYC SPORTS Delay" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="Deportes",TYC SPORTS (Delay)
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/327918
 #EXTINF:-1 tvg-id="TYCSPORTS" tvg-name="TYC SPORTS FANS" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/TyC_Sports_Logo.svg/960px-TyC_Sports_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Deportes",TYC SPORTS FANS
 https://streams2.sofast.tv/ptnr-hispasat/title-TYC-SPORTS-LATMA/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18a85327-6b17-4d41-8c2f-41ff8511c1dd/sofastplayout/2f7c083c-a970-4cd4-a634-0b56fed45495/manifest.m3u8
