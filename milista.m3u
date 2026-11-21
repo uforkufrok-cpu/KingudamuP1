@@ -41,6 +41,10 @@ http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/327918
 https://streams2.sofast.tv/ptnr-hispasat/title-TYC-SPORTS-LATMA/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18a85327-6b17-4d41-8c2f-41ff8511c1dd/sofastplayout/2f7c083c-a970-4cd4-a634-0b56fed45495/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FUT SPORTS" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="⭐️ Deporte Argentina",AR | FUT SPORTS
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/327919
+#EXTINF:-1 tvg-id="FoxSport" tvg-name="FoxSportFHD" tvg-logo="" group-title="Deportes",FoxSport FHD
+https://list.iptvcat.net/my_list/s/25713978ea2b3598d35808899ae47250.m3u8
+#EXTINF:-1 tvg-id="FoxSport" tvg-name="FoxSportHD" tvg-logo="" group-title="Deportes",FoxSport HD
+https://list.iptvcat.net/my_list/s/a1bc02b5c821b4e8a04111fde1de6f78.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="F0X $PORTS 1" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="⭐️ Deporte Argentina",AR | F0X $PORTS 1
 http://superxlatino.com:8880/Ceci1234/QV2ap6u7wLma/328108
 #EXTINF:-1 tvg-id="" tvg-name="F0X $PORTS 2" tvg-logo="http://redworld.pro:8880/images/4e30238679427cf61979378dc815f0ae.png" group-title="⭐️ Deporte Argentina",AR | F0X $PORTS 2
